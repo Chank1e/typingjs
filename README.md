@@ -2,7 +2,7 @@
 Easiest library for typing effect(443 bytes)
 Use 'new typing(elementSelector,text)' for using;
 CSS styles for cursor:
-```javascript
+```css
 .cursor{
   font-weight:bold;
   -webkit-animation: cursorAnim 0.7s infinite;
