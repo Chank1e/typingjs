@@ -1,12 +1,4 @@
-# TypingJs
-Easiest library for typing effect(443 bytes)
-Use 
-```javascript
-new typing(elementSelector,text)
-```
-for using;
-CSS styles for cursor:
-```css
+
 .cursor{
   font-weight:bold;
   -webkit-animation: cursorAnim 0.7s infinite;
@@ -28,4 +20,13 @@ CSS styles for cursor:
     50% { opacity:0; }
     100% { opacity:1; }
 }
-```
+
+
+
+h1 {
+  font-family:'Verdana',sans-serif;
+  line-height:1.4em;
+  font-size:1.75em;
+  text-align:center;
+  overflow:hidden;  
+}
